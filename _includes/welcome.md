@@ -1,31 +1,22 @@
-# Welcome
+# Chào mừng
 
-There's a lot of outdated information on the Web that leads new PHP users astray,
-propagating bad practices and insecure code. _PHP: The Right Way_ is an easy-to-read,
-quick reference for PHP popular coding standards, links to authoritative tutorials
-around the Web, and what the contributors consider to be best practices at present.
+Có rất nhiều thông tin đã bị lỗi thời trên không gian mạng, từ đó dẫn đến việc rất nhiều người dùng mới tìm đến PHP bị lạc lối khi tìm hiểu ngôn ngữ này, tạo ra các thói quen xấu khi viết code PHP và thậm chí là viết code thiếu tính bảo mật. _PHP: Con Đường Chính Đạo_ có thể được xem như là một tài liệu tham chiếu được viết một cách gọn gàng và dễ đọc, giúp các lập trình viên PHP có thể tìm hiểu về những tiêu chuẩn chung phổ biến nhất khi viết code PHP (coding standard), đồng thời cũng dẫn liên kết đến các bài hướng dẫn khác được những người đóng góp cho tài liệu này xem như là những cách ứng dụng tốt nhất hiện nay. 
 
-_There is no canonical way to use PHP_. This website aims to introduce new PHP
-developers to some topics which they may not discover until it is too late, and aims
-to give seasoned pros some fresh ideas on those topics they've been doing for years
-without ever reconsidering. This website will also not tell you which tools to use, but
-instead offer suggestions for multiple options, when possible explaining the differences
-in approach and use-case.
+_Không có cách dùng PHP nào là chính thống_. Tài liệu này, hay trang web này, hướng tới việc hướng dẫn những lập trình viên mới tìm đến PHP những chủ đề mà họ chưa tìm hiểu tới, và đồng thời cũng muốn cung cấp cho những lập trình viên PHP đã có nhiều kinh nghiệm những ý tưởng mới mẻ về những chủ đề mà họ đã vốn quen suốt nhiều năm qua nhưng ít khi thực sự chú tâm tới. Tài liệu này sẽ không chỉ bạn dùng những công cụ nào một cách cụ thể mà thay vào đó, chúng tôi sẽ cung cấp những gợi ý và những lựa chọn khác nhau, giải thích sự khác nhau trong từng cách tiếp cận và nên dùng những công cụ đó vào lúc nào là hợp lý (nếu có thể).
 
-This is a living document and will continue to be updated with more helpful information
-and examples as they become available.
+Đây là một tài liệu sẽ được cập nhật liên tục theo thời gian để cung cấp các thông tin hữu ích và những ví dụ thực tiễn.
 
-## Translations
+## Bản Dịch
 
-_PHP: The Right Way_ is translated into many different languages:
+_PHP: Con Đường Chính Đạo_ hiện đã được dịch sang nhiều ngôn ngữ khác, các bạn có thể tham khảo tại:
 
-* [English](https://www.phptherightway.com)
-* [Español](https://phpdevenezuela.github.io/php-the-right-way)
-* [Français](https://eilgin.github.io/php-the-right-way/)
-* [Indonesia](https://id.phptherightway.com)
-* [Italiano](https://it.phptherightway.com)
-* [Polski](https://pl.phptherightway.com)
-* [Português do Brasil](https://br.phptherightway.com)
+* [Tiếng Anh](https://www.phptherightway.com)
+* [Tiếng Tây Ban Nha](https://phpdevenezuela.github.io/php-the-right-way)
+* [Tiếng Pháp](https://eilgin.github.io/php-the-right-way/)
+* [Tiếng Indonesia](https://id.phptherightway.com)
+* [Tiếng Ý](https://it.phptherightway.com)
+* [Tiếng Ba Lan](https://pl.phptherightway.com)
+* [Tiếng Bồ Đào Nha](https://br.phptherightway.com)
 * [Română](https://bgui.github.io/php-the-right-way/)
 * [Slovenščina](https://sl.phptherightway.com)
 * [Srpski](https://phpsrbija.github.io/php-the-right-way/)
@@ -36,18 +27,18 @@ _PHP: The Right Way_ is translated into many different languages:
 * [العربية](https://adaroobi.github.io/php-the-right-way/)
 * [فارسى](https://novid.github.io/php-the-right-way/)
 * [ภาษาไทย](https://apzentral.github.io/php-the-right-way/)
-* [한국어판](https://modernpug.github.io/php-the-right-way)
-* [日本語](https://ja.phptherightway.com)
-* [简体中文](https://laravel-china.github.io/php-the-right-way/)
-* [繁體中文](https://laravel-taiwan.github.io/php-the-right-way)
+* [Tiếng Hàn](https://modernpug.github.io/php-the-right-way)
+* [Tiếng Nhật](https://ja.phptherightway.com)
+* [Tiếng Trung Quốc](https://laravel-china.github.io/php-the-right-way/)
+* [Tiếng Đài Loan](https://laravel-taiwan.github.io/php-the-right-way)
 
-## Book
+## Sách
 
-The most recent version of _PHP: The Right Way_ is also available in PDF, EPUB and MOBI formats. [Go to Leanpub][1]
+Phiên bản mới nhất. của _PHP: Con Đường Chính Đạo_ (bản gốc tiếng Anh) hiện đã có thể xem trên các định dạng như PDF, EPUB và MOBI. [Xem tại Learnpub][1]
 
-## How to Contribute
+## Cách để đóng góp
 
-Help make this website the best resource for new PHP programmers! [Contribute on GitHub][2]
+Giúp mình đóng góp thêm cho cộng đồng PHP nói chung và các bạn lập trình viên PHP mới nói riêng néh! [Xem tại Github của mình][2]
 
 [1]: https://leanpub.com/phptherightway
-[2]: https://github.com/codeguy/php-the-right-way/tree/gh-pages
+[2]: https://github.com/cohekoma/php-the-right-way/tree/gh-pages
